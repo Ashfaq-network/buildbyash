@@ -1,0 +1,8 @@
+{
+  "name": "buildsbyash",
+  "version": "1.0.0",
+  "description": "buildsbyash portfolio website",
+  "dependencies": {
+    "nodemailer": "^6.9.13"
+  }
+}
